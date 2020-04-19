@@ -163,3 +163,12 @@ body {
 .win-msg {
   font-weight: 200;
 }
+
+.link {
+  text-decoration: none;
+  color: #ffba00;
+  font-weight: 100;
+  position: absolute;
+  top: 90%;
+  left: 1%;
+}
